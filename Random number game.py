@@ -2,7 +2,7 @@ import random
 
 
 random_number = random.randint(1,10)
-chance = 10
+chance = 3
 print("Vous avez 10 chance pour trouver le nombre choisi par l'ordinateur.")
 
 
